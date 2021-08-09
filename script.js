@@ -26,7 +26,7 @@ function finalizar(){
       win=2;
     }
   }else if(vez==8){
-    setTimeout(function(){ alert("EMPATE"); }, 100);
+    //setTimeout(function(){ alert("EMPATE"); }, 100);
   }
 }
 
