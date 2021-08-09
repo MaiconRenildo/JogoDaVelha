@@ -19,10 +19,10 @@ function finalizar(){
     (valores[2]==valores[5] && valores[2]==valores[8] && valores[2]!=null) 
     ){
     if((vez%2)==0){
-      setTimeout(function(){ alert("Vencedor: X"); }, 100);
+      //setTimeout(function(){ alert("Vencedor: X"); }, 100);
       win=1;
     }else{
-      setTimeout(function(){ alert("Vencedor: O"); }, 100);
+      //setTimeout(function(){ alert("Vencedor: O"); }, 100);
       win=2;
     }
   }else if(vez==8){
