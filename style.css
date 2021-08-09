@@ -5,8 +5,6 @@
 body{
   padding-top: 5vh;
   height: 95vh;
-  overflow-y: hidden;
-  overflow-x: hidden;
   display: flex;
   flex-direction: column;
 }
